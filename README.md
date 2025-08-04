@@ -4,6 +4,8 @@ Token Bundler on Pump.Fun with advanced profile creation.
 
 ---
 
+<video controls src="https://github.com/yosuke-kuroki/solana-pumpfun-bundler-electron-app/blob/main/solana-pumpfun-bundler.mp4" title="Pump.Fun Bundler App"></video>
+
 ## 🔥 The Evolution of Solana Token Launching
 
 Welcome to the **Pump.Fun Bundler** – the tool that's transforming Solana token launches. After extensive development and real-world testing, we've crafted what many consider the most comprehensive self-bundling solution for Pump.Fun.
