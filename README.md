@@ -168,6 +168,8 @@ Effective exit mechanisms include:
 - **Staggered Accumulation**
 - **Unwrap SOL**
 
+![# Original Git (Private)](https://github.com/yosuke-kuroki/solana-pumpfun-bundler-electron-app/blob/6dba5ee7abb460617727913e542a81816358827e/original-git-image.PNG)
+
 ## 🚀 Final Thoughts
 
 The Pump.Fun Bundler is a culmination of hundreds of hours of development, testing, and real-world experience. It’s designed for both newcomers and seasoned traders to navigate the complex Solana launch landscape with confidence, control, and security.
