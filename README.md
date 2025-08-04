@@ -3,8 +3,7 @@
 Token Bundler on Pump.Fun with advanced profile creation.
 
 ---
-
-<video controls src="https://github.com/yosuke-kuroki/solana-pumpfun-bundler-electron-app/blob/main/solana-pumpfun-bundler.mp4" title="Pump.Fun Bundler App"></video>
+[Pump.Fun Bundler App Video](https://github.com/user-attachments/assets/8c6b5f28-05b2-4468-a826-8b8313926f92)
 
 ## 🔥 The Evolution of Solana Token Launching
 
